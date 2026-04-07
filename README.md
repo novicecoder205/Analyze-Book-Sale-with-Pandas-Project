@@ -21,4 +21,10 @@ Genre: Fiction or non-fiction
 
 ##### 2. Dataset:
 Dataset: The dataset for this project can be obtains on kaggles.
-URL link: https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019?resource=download
+URL link: https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019?resource=download.
+
+. The csv contains 550 books, wwith 7 columns, all mentions above.
+
+
+
+
